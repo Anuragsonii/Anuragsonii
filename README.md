@@ -1,4 +1,3 @@
-# ![Nike Logo](https://upload.wikimedia.org/wikipedia/commons/a/a6/Logo_Nike.svg)  
 # Hey! I'm Anurag, 👋  
 ### Senior Technical Recruiter at **Artech** | Recruiting for **Nike** 🚀
 
